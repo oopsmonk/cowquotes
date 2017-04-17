@@ -56,7 +56,7 @@ $ ./cowquotes.py -f ./cows/witch1.cow
                     /__//
                     Y\_\\_
 
-$ ./cowquotes.py -f python.cow
+$ ./cowquotes.py -f python
  _______________________________________________
 / Creativity comes from trust. Trust your       \
 | instincts. And never hope more than you work. |
