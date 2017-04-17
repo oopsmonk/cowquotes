@@ -1,0 +1,31 @@
+#
+# This is created by cowFactory.py
+#
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+                    bbbrbpa   
+      ii        sbbbbbbabba   
+  pbbbbbbbbbb  abbbbppbbbb    
+  bbbbabbbbbbr bbbrrbbbbbr    
+  pbbbbbbr sb   s bbbbbb      
+   ebbbbbbbb      bbbbb       
+    pbbbbbe                   
+            iiiiii iiiii      
+      iii  iiiiiii   iiii     
+     iii    iiir  bir  yi     
+    iip  piiy   iiiiiii  ab   
+    r  iiiiiii  iiiiiiii iii  
+   r  iiiiiiii  iiiiiiii iii  
+  iiy iiiiiiii   iiiiiii rii  
+ riip iiiiiii     piii    ii  
+ yiia  eiii  iiiiii    aii    
+  ii        iiiiiiii  iiiii   
+    iiii   iiiiiiiii iiiiii   
+    iiiiii aiiiiiii biiiii    
+    riiiiia  iiiiy  piiii     
+     aiiiiy                   
+            iiiiiiii          
+            iiiiiir           
+                              
+EOC

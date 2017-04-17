@@ -1,0 +1,28 @@
+#
+# This is created by cowFactory.py
+#
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts   
+    .--    .--                       --`    --.   
+    +yy.` .+yy`                     `yy+. `.yy/   
+    +yyy/.yyyy`                     `yyyy./yyy/   
+    +yyyyyyyyy`                     `yyyyyyyyy/   
+    -/+yyyyy/:                       //yyyyy+/-   
+      :yyyys                           syyyy:     
+      :yyyyy.      .oyo.   -syo.      -yyyyy:     
+      .syyyyy+`    -sys-   -sys-    .+yyyyys.     
+        :syyyyy/`   `y`     `y`   `/yyyyys-       
+          -syyyyo   `y``````.y`   oyyyys-         
+           /yyyys   `/////////    syyyy/          
+           :yyyys::::.       .::::syyo/.          
+   -ooooooo-oyyyyyyyyy+`   .+yyyyyyyy/-ooooooo-   
+ -os:`-::::.oys+++yyyyyy/./yyyys+++++-.::::-`:so. 
++y/`:ss/:::.oyo///yyyysyyyyysyy+      .:::/ss-`/y+
+y+.oy/.+ooo-oyo:syyyyy.-syo-.yy+      -ooo+./yo`oy
+y+-y-:y+.--.oy+ osyyyy.  -  .yy+      .--.+y:-y-oy
+:--y-+o +y/.oy+  `yyyy.     .yysooooo-./y+ o+-y--:
+  `:`+o +o  -:-   ::::`     `::::::::.  o+ o+`:`  
+     .. +o                              o+ -.     
+        ..                              ..        
+EOC

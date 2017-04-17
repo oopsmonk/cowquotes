@@ -1,0 +1,11 @@
+##
+## http://ascii.co.uk/art/worm
+##
+$the_cow = <<EOC;
+        $thoughts
+         $thoughts   
+             -oo   
+              |"   
+              |    
+            --'    
+EOC

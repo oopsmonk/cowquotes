@@ -1,0 +1,28 @@
+## 
+## http://ascii.co.uk/art/heart
+##
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts   
+          |  \\ \\ | |/ /
+          |  |\\ `' ' /
+          |  ;'aorta \\      / , pulmonary
+          | ;    _,   |    / / ,  arteries
+ superior | |   (  `-.;_,-' '-' ,
+vena cava | `,   `-._       _,-'_
+          |,-`.    `.)    ,<_,-'_, pulmonary
+         ,'    `.   /   ,'  `;-' _,  veins
+        ;        `./   /`,    \\-'
+        | right   /   |  ;\\   |\\
+        | atrium ;_,._|_,  `, ' \\
+        |        \\    \\ `       `,
+        `      __ `    \\   left  ;,
+         \\   ,'  `      \\,  ventricle
+          \\_(            ;,      ;;
+          |  \\           `;,     ;;
+ inferior |  |`.          `;;,   ;'
+vena cava |  |  `-.        ;;;;,;' FL
+          |  |    |`-.._  ,;;;;;'
+          |  |    |   | ``';;;'
+                  aorta
+EOC

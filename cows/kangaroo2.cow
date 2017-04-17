@@ -1,0 +1,29 @@
+##
+## http://ascii.co.uk/art/kangaroo
+##
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts   
+
+                                     :e
+                                    'M8\\
+                                   sfM8br
+                                 J\\J\\JML8L
+                               :d  )fM888MMr
+                          ..P*\\ .4MJP   '*\\
+                 sed"""""" ser dM88F
+             .M\\  ..JMM88BMM8MBJ8MR  ...
+            dF  nMMMM88RMM8M88Mh"8ks88"88r
+          J\\.. .MMM8MM888LM8P\\..'**\\    *\\
+         d :d8r "M8M88br'8M\\d8R
+        J\\MM\\ *L   *M8B8MMMB.**
+       :fd8>  :fhr 'MRMM8M8M"
+       MJ8>    '5J5..M888>
+      :fMM     d8Fd88R88F
+      4M8P .88*.J*8M**
+      M48> '8>dRdF
+      MMM\\   *L*B.         Rosemary Lyndall Wemm
+     :M8F     ?k"Re
+   .88P\\        **'88B...
+:e8F"               '""""
+EOC
