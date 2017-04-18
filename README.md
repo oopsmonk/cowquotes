@@ -13,6 +13,15 @@ Optional:
 
 Usage:  
 
+1. Put in `~/.bashrc`  
+
+```
+$ echo "export COWSPATH='/path/to/cows/'" >> ~/.bashrc
+$ echo "/path/to/cowquotes.py -f python" >> ~/.bashrc
+```
+
+2. Run in command line  
+
 ```
 $ export COWSPATH="/path/to/cows/"
 $ ./cowquotes.py -f worm
@@ -85,7 +94,7 @@ $ ./cowquotes.py -f python
 $
 ```
 
-Loop all cow files:  
+3. Loop all cow files:  
 `for i in $(./cowquotes.py -l); do ./cowquotes.py -f $i -m "$i"; done`  
 
 ## cowFactory.py  
